@@ -45,4 +45,4 @@ Ensure you have the following installed:
 
 -   [Ethan Diem](https://github.com/ethandiem)
 
-Created using [Adam Brace's](https://github.com/Adam-Brace) Vite-Express-Template
+Created using [Adam Brace's](https://github.com/Adam-Brace) [Vite-Express-Template](https://github.com/Adam-Brace/Vite-Express-Template)
